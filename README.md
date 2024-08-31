@@ -1,6 +1,6 @@
 ### SyriaTel-Customer-Churn-Project.
 The SyriaTel Customer Churn Project.
-
+![Telecommunication Tower](https://github.com/Arishiine/Customer-Churn-SyriaTel/blob/main/Telecommunication%20Tower.png)
 ## OVERVIEW
 This project is about a telecommunication company called SyriaTel that needs to understand their churn rate(which is a measure of a company's  loss of subscribers for a given period of time/opposite for growth rate)
 It is calculated by : 
