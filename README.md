@@ -14,8 +14,8 @@ Calculating the churn rate is so important for various reasons.
 ### main objective
 - Predict whether a customer will ('soon') stop doing business with SyriaTel telecommunication Company
 ####  Specific objectives
-- 
--
+- Plausible reasons for churn to happen
+- What patterns in customer behavior are associated with higher churn rates?
 ## DATA UNDERSTANDING
 The data contains the following variables.
 - state, string. 2-letter code of the US state of customer residence
